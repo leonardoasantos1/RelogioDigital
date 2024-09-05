@@ -14,8 +14,6 @@ Este é um projeto simples de um relógio digital que exibe a hora atual (horas,
 - **CSS3**: Para estilização, utilizando a fonte `Orbitron` do Google Fonts e tornando o layout responsivo.
 - **JavaScript**: Para calcular e exibir dinamicamente o horário e a data.
 
-![img](https://github.com/user-attachments/assets/bf0bf6e2-e7a1-464f-a98b-9001983d4a69)
-
 ##Estrutura do projeto
 
 ├── assets
