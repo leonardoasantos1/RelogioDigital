@@ -1,7 +1,7 @@
 const horas = document.getElementById('horas');
 const minutos = document.getElementById('minutos');
 const segundos = document.getElementById('segundos');
-const DIAS = ["SEG", "TER", "QUA", "QUI", "SEX", "SAB", "DOM"];
+const DIAS = ["DOM", "SEG", "TER", "QUA", "QUI", "SEX", "SAB"];
 
 const relogio = setInterval(function time() {
     let dateToday = new Date();
